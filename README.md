@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Chorge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🔭 I’m currently working on **FrontEnd Devlopment**
+
+- 🌱 I’m currently learning **FrontEnd**
 
 - 💬 Ask me about **reactjs,javascript**
 
 - 📫 How to reach me **chorgerushi17@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
