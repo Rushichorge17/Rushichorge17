@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Chorge</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend React developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **reactjs,javascript**
 
-- 📫 How to reach me **chorgerushi17@gmail.com**
+- 📫 How to reach me **rushikeshchorge174@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
