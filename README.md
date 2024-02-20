@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **reactjs,javascript**
 
-- 📫 How to reach me **rushikeshchorge174@gmail.com**
+- 📫 How to reach me **chorgerushi1717@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
