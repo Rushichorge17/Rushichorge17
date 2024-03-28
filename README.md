@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **Frontend React Development**
 
-- 🌱 I’m currently learning **Advanced React Nextjs concepts**
+- 🌱 I’m currently learning **Advanced React concepts**
 
-- 💬 Ask me about **ReactJS, NextJS, MERN Stack**
+- 💬 Ask me about **ReactJS, JavaScript, MERN Stack**
 
 - 📫 How to reach me: **chorgerushi1717@gmail.com**
 
@@ -33,6 +33,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushichorge17&layout=compact&hide=html" alt="rushichorge17" /></p>
