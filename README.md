@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
 
-- 🔭 I’m currently working on **Frontend React Development**
+- 🔭 I’m currently working on **MERN Stack Development**
 
-- 🌱 I’m currently learning **Advanced React concepts**
+- 🌱 I’m currently learning **Advanced ReactJs ,NextJS concepts**
 
-- 💬 Ask me about **ReactJS, JavaScript, MERN Stack**
+- 💬 Ask me about **ReactJS,NextJS, MERN Stack**
 
 - 📫 How to reach me: **chorgerushi1717@gmail.com**
 
