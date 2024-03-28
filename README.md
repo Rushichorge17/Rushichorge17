@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Chorge</h1>
-<h3 align="center">A passionate frontend React developer from India</h3>
+<h3 align="center"> I'm a MERN stack developer.My focus is React (Next.js).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
 
