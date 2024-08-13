@@ -1,11 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Rushikesh Chorge</h1>
-<h3 align="center">MERN Stack Developer | React and Next.js Enthusiast</h3>
+<h3 align="center">Software Engineer | Reactjs and Asp.net core Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
-🔭 I’m currently working on MERN Stack Development.
-🌱 I’m expanding my knowledge in Advanced MERN Stack concepts.
-💬 Feel free to ask me about ReactJS, Next.js, and the MERN Stack.
-📫 Reach me at: chorgerushi1717@gmail.com.
-⚡ Fun fact: I think I'm funny.
+🔭 I’m currently working on Backend Development. </br>
+🌱 I’m expanding my knowledge in Advanced in concepts. </br>
+💬 Feel free to ask me about Frontend and Backend. </br>
+📫 Reach me at: chorgerushi1717@gmail.com. </br>
+⚡ Fun fact: I think I'm funny. </br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/ChorgeRushi17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -34,7 +34,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" width="40" height="40"/>
 </p>
 <p align="center">
