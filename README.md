@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Rushikesh Chorge</h1>
-<h3 align="center">Software Engineer | Reactjs and Asp.net core Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rushichorge17&label=Profile%20views&color=0e75b6&style=flat" alt="rushichorge17" /> </p>
 🔭 I’m currently working on Backend Development. </br>
 🌱 I’m expanding my knowledge in Advanced in concepts. </br>
