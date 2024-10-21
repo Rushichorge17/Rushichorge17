@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-  <li>🔭 <strong>Currently Working On</strong>: Advanced Backend Development</li>
+  <li>🔭 <strong>Currently Working On</strong>: Advanced Frontend & Backend Development</li>
   <li>🌱 <strong>Expanding Knowledge In</strong>: Modern Backend Architectures, Design Patterns</li>
   <li>💬 <strong>Ask Me About</strong>: Full-Stack Development, Frontend & Backend Technologies</li>
   <li>📫 <strong>Reach Me At</strong>: <a href="mailto:chorgerushi1717@gmail.com">chorgerushi1717@gmail.com</a></li>
