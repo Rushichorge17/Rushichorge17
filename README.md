@@ -68,21 +68,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushichorge17&" alt="GitHub Streak" />
 </p>
-<h3 align="center">Projects</h3>
-<p align="center">
-  <a href="https://github.com/rushichorge17/AI-Image-SaaS" target="_blank">
-    <img src="https://img.shields.io/badge/AI Image SaaS-blue?style=for-the-badge&logo=github" alt="AI Image SaaS Project"/>
-  </a>
-  <a href="https://github.com/rushichorge17/FitnessTracker" target="_blank">
-    <img src="https://img.shields.io/badge/Fitness Tracker-blue?style=for-the-badge&logo=github" alt="Fitness Tracker Project"/>
-  </a>
-  <a href="https://github.com/rushichorge17/BlazingBlog" target="_blank">
-    <img src="https://img.shields.io/badge/BlazingBlog-blue?style=for-the-badge&logo=github" alt="BlazingBlog Project"/>
-  </a>
-</p>
 
-<h3 align="center">Support</h3>
-<p align="center">If you like my work, feel free to <a href="https://www.buymeacoffee.com/rushichorge17">buy me a coffee</a>!</p>
+
 
 <h3 align="center">Contact Me</h3>
 <p align="center">You can reach me via email at <a href="mailto:chorgerushi1717@gmail.com">chorgerushi1717@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/rushikeshchorge/">LinkedIn</a>.</p>
