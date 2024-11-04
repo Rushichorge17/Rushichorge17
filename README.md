@@ -18,18 +18,6 @@
   <li>📫 <strong>Reach Me At</strong>: <a href="mailto:chorgerushi1717@gmail.com">chorgerushi1717@gmail.com</a></li>
 </ul>
 
----
-
-<h3 align="center">Featured Projects</h3>
-<p align="center">Check out some of my latest work:</p>
-<ul align="center">
-  <li><a href="https://github.com/rushichorge17/Project1">Project 1 - Description</a></li>
-  <li><a href="https://github.com/rushichorge17/Project2">Project 2 - Description</a></li>
-  <li><a href="https://github.com/rushichorge17/Project3">Project 3 - Description</a></li>
-</ul>
-
----
-
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/ChorgeRushi17" target="_blank">
@@ -52,8 +40,8 @@
 
 <p align="center">
   <!-- Add your languages and tools here -->
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
   <!-- Repeat the pattern for all tools, as in your original file -->
 </p>
 
