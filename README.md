@@ -91,14 +91,6 @@ https://github.com/Rushichorge17/aws-iam-practice-lab
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushichorge17&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushichorge17&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 LinkedIn
